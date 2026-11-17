@@ -1,0 +1,28 @@
+# Environment variables & secrets
+.env
+*.env
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Test artifacts & OS files
+*.test
+*.out
+.DS_Store
+Thumbs.db
+
+# Go cache / vendor
+vendor/
+
+# Graphify intermediate cache & machine-specific build state
+# (Keeps GRAPH_REPORT.md, graph.html, graph.json, and manifest.json for cross-machine access)
+graphify-out/cache/
+graphify-out/.*
+.graphify*
+

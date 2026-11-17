@@ -1,0 +1,164 @@
+{
+  "go.mod": {
+    "mtime": 1794846650.5458205,
+    "seen": 1794846843.5596974,
+    "ast_hash": "e3b823c02596825e5690225136c5b3b6",
+    "semantic_hash": ""
+  },
+  "internal/adapter/memory/memory_repo.go": {
+    "mtime": 1794845411.5173764,
+    "seen": 1794846546.0454895,
+    "ast_hash": "ef6af61b6fb21252e2a7cb7976c6fc0f",
+    "semantic_hash": ""
+  },
+  "internal/adapter/mongo/focus_tx_manager.go": {
+    "mtime": 1794845074.630201,
+    "seen": 1794846546.0454943,
+    "ast_hash": "145f9db3268c2a646c493401e80a1f79",
+    "semantic_hash": ""
+  },
+  "internal/adapter/mongo/indexes.go": {
+    "mtime": 1794847428.6047807,
+    "seen": 1794848095.6657028,
+    "ast_hash": "7a41eda9ac43ecb15dc891b33a44aff6",
+    "semantic_hash": ""
+  },
+  "internal/adapter/mongo/mongo_integration_test.go": {
+    "mtime": 1794845175.969946,
+    "seen": 1794846546.045502,
+    "ast_hash": "159422c18b4b21160feece94f59ea21f",
+    "semantic_hash": ""
+  },
+  "internal/adapter/mongo/session_repo.go": {
+    "mtime": 1794845418.8599365,
+    "seen": 1794846546.0455098,
+    "ast_hash": "95a430f49bbdd3fed0da145e7154ff10",
+    "semantic_hash": ""
+  },
+  "internal/adapter/mongo/task_repo.go": {
+    "mtime": 1794845029.7764025,
+    "seen": 1794846546.0455136,
+    "ast_hash": "54cc7c07f9d409fd12c642a3771ceade",
+    "semantic_hash": ""
+  },
+  "internal/domain/ai.go": {
+    "mtime": 1794847822.082989,
+    "seen": 1794848095.665733,
+    "ast_hash": "3bfd1ee86799f5f6ef969634a49940a4",
+    "semantic_hash": ""
+  },
+  "internal/domain/errors.go": {
+    "mtime": 1794844898.1731954,
+    "seen": 1794846546.0455205,
+    "ast_hash": "be6f266d7168916eea0a7022bf31aa0a",
+    "semantic_hash": ""
+  },
+  "internal/domain/repository.go": {
+    "mtime": 1794845404.6213343,
+    "seen": 1794846546.045524,
+    "ast_hash": "d76cb94d299b3bf2fe4589def9152aca",
+    "semantic_hash": ""
+  },
+  "internal/domain/session.go": {
+    "mtime": 1794844924.6708,
+    "seen": 1794846546.0455272,
+    "ast_hash": "a1db98a162d61a54e1cbe61ff3ba3879",
+    "semantic_hash": ""
+  },
+  "internal/domain/session_test.go": {
+    "mtime": 1794845109.9895768,
+    "seen": 1794846546.0455308,
+    "ast_hash": "b6a7e609031408e7b2802dd129219be8",
+    "semantic_hash": ""
+  },
+  "internal/domain/task.go": {
+    "mtime": 1794844911.9172866,
+    "seen": 1794846546.0455341,
+    "ast_hash": "a6bb30db6e2e10cf612eda98895cfa62",
+    "semantic_hash": ""
+  },
+  "internal/domain/task_test.go": {
+    "mtime": 1794845098.3739727,
+    "seen": 1794846546.0455372,
+    "ast_hash": "f37635601d6eeb054d4441932f1327b3",
+    "semantic_hash": ""
+  },
+  "internal/service/focus_service.go": {
+    "mtime": 1794844967.20112,
+    "seen": 1794846546.04554,
+    "ast_hash": "16cded63cf3bb8a2df5b5462acd267f7",
+    "semantic_hash": ""
+  },
+  "internal/service/focus_service_test.go": {
+    "mtime": 1794845423.8073096,
+    "seen": 1794846546.0455437,
+    "ast_hash": "4bda0353a9200ec998c3dbcddb0980f3",
+    "semantic_hash": ""
+  },
+  "internal/service/service_more_test.go": {
+    "mtime": 1794845680.0407896,
+    "seen": 1794846546.045547,
+    "ast_hash": "090599b7af691929178774da6638ad95",
+    "semantic_hash": ""
+  },
+  "internal/service/task_service.go": {
+    "mtime": 1794847965.9813523,
+    "seen": 1794848095.6657653,
+    "ast_hash": "663cb0782bb444d6249852b72d55e1ae",
+    "semantic_hash": ""
+  },
+  "internal/service/task_service_test.go": {
+    "mtime": 1794848051.032816,
+    "seen": 1794848095.6657677,
+    "ast_hash": "37f820974f82b4ca8fcaf12f9a8e7e82",
+    "semantic_hash": ""
+  },
+  "cmd/bot/main.go": {
+    "mtime": 1794848013.3734584,
+    "seen": 1794848095.6656682,
+    "ast_hash": "166c9865fb51d8d90ca93720b3f5e673",
+    "semantic_hash": ""
+  },
+  "internal/adapter/telegram/bot.go": {
+    "mtime": 1794847989.6605573,
+    "seen": 1794848095.6657183,
+    "ast_hash": "5f56aa16d8ffd359a59dfafe9fbf82eb",
+    "semantic_hash": ""
+  },
+  "internal/adapter/telegram/bot_test.go": {
+    "mtime": 1794846768.0452151,
+    "seen": 1794846843.5597239,
+    "ast_hash": "71d914ad434a48b16ec6325399a40988",
+    "semantic_hash": ""
+  },
+  "internal/adapter/telegram/config.go": {
+    "mtime": 1794847940.0501025,
+    "seen": 1794848095.6657264,
+    "ast_hash": "663c96e3fab7bd4394ac7729c4aa92ae",
+    "semantic_hash": ""
+  },
+  "internal/adapter/telegram/keyboards.go": {
+    "mtime": 1794846676.4459994,
+    "seen": 1794846843.5597281,
+    "ast_hash": "97e857108b10d84c4d1328561ad248f6",
+    "semantic_hash": ""
+  },
+  "internal/adapter/llm/client.go": {
+    "mtime": 1794847844.416455,
+    "seen": 1794848095.6656854,
+    "ast_hash": "29cd86eca855e576bb3faa95f1e1b67b",
+    "semantic_hash": ""
+  },
+  "internal/adapter/llm/llm_live_test.go": {
+    "mtime": 1794847925.996877,
+    "seen": 1794848095.6656897,
+    "ast_hash": "cf904db0696207ceb31b234933503089",
+    "semantic_hash": ""
+  },
+  "internal/service/ai_eval_test.go": {
+    "mtime": 1794847905.5870526,
+    "seen": 1794848095.665754,
+    "ast_hash": "646cbfb8de214c13312a6e2ec38ed62a",
+    "semantic_hash": ""
+  }
+}
